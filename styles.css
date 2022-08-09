@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.logo {
+    width: 80px;
+    margin: auto;
+    display: block;
+}
+.navigation {
+    background-color: black;
+    text-align: center;
+}
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
+.banner {
+    height: 400px;
+    background-color: aquamarine;
+    background-image: url("images/claudio-schwarz-ipcsI15th5I-unsplash.jpg");
+}
